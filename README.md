@@ -1,6 +1,9 @@
-Hi, I'm Zach!
+# Hi, I'm Zach!
 
-# *Who am I?*
-I'm a **computer science** and **mathematics** student from West Michigan. I'm learning **Python** in school while teaching myself **JavaScript**, **Java**, and **SQL**.
+## *Who's Zach?*
+I'm a **computer science** and **mathematics** student from West Michigan. I'm learning **Python** in school and teaching myself **JavaScript**, **Java**, and **SQL**.
 
-# *What's on Zach's GitHub?
+## *What's on Zach's GitHub?*
+This is where:
+- I 
+- I host my [website](https://flapjackzach.com)
