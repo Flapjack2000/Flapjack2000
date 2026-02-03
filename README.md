@@ -7,6 +7,6 @@ I have all sorts of projects on here. Here are the ones I'm most proud of:
 * several demo shaders made by yours truly
 
 ### [Bézier Curve Creator](https://bezzy-qkxj.onrender.com/)
-* Java backend with Spring Boot framwork
+* Java backend with Spring Boot framework
 * uses Bernstein polynomials to calculate Bézier curve from user-defined control points
 * Vanilla HTML/CSS/JS frontend, HTML canvas
