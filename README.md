@@ -1,8 +1,12 @@
-# Hi, I'm Zach!
+Hi, I'm Zach! I'm a computer science and mathematics student from Grand Rapids, Michigan.
 
-## *Who's Zach?*
-I'm a **computer science** and **mathematics** student from West Michigan. I'm learning **Python** in school and teaching myself **React** and **Java**.
+I have all sorts of projects on here. Here are the ones I'm most proud of:
+### [Spectra](https://spectra-three-glsl.vercel.app/) - a 3D shader visualization tool that updates as you write shader code
+* built with NextJS, uses React state to handle updated GLSL code
+* uses ThreeJS to render scene with various 3D geometry options
+* several demo shaders made by yours truly
 
-## *What's on Zach's GitHub?*
-This is where I post cool math related programming projects and anything else I find interesting.
-It's also where I host my [website](https://flapjackzach.com).
+### [Bézier Curve Creator](https://bezzy-qkxj.onrender.com/)
+* Java backend with Spring Boot framwork
+* uses Bernstein polynomials to calculate Bézier curve from user-defined control points
+* Vanilla HTML/CSS/JS frontend, HTML canvas
