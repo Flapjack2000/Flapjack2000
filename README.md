@@ -6,9 +6,9 @@ I have all sorts of projects on here. Here are some of the ones I'm most proud o
 * uses ThreeJS to render scene with various 3D geometry options
 * several demo shaders made by yours truly
 
-### [Bézier Curve Creator](https://bezzy-qkxj.onrender.com/)
+### [Bézier Curve Creator](https://bezzy-qkxj.onrender.com/) - a tool for creating Bézier curves from control points
 * Java backend with Spring Boot framework
-* uses Bernstein polynomials to calculate Bézier curve from user-defined control points
+* uses Bernstein polynomials to calculate Bézier curve from a flexible number of user-defined control points
 * Vanilla HTML/CSS/JS frontend, curves drawn on HTML canvas
 
 ### [Zoo Game (group project for school)](https://github.com/Flapjack2000/cis-350-project) - a video game in which you play as a zookeeper
