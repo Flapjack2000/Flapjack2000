@@ -11,5 +11,6 @@ I have all sorts of projects on here. Here are some of the ones I'm most proud o
 * uses Bernstein polynomials to calculate Bézier curve from user-defined control points
 * Vanilla HTML/CSS/JS frontend, HTML canvas
 
-### [Zoo Game (school project)](https://github.com/Flapjack2000/cis-350-project)
-* PyGame
+### [Zoo Game (group project for school)](https://github.com/Flapjack2000/cis-350-project) - a video game in which you play as a zookeeper
+* built with Python and PyGame
+* all artwork done by fellow student Lucy Roop
