@@ -1,6 +1,6 @@
 Hi, I'm Zach! I'm a computer science and mathematics student from Grand Rapids, Michigan.
 
-I have all sorts of projects on here. Here are the ones I'm most proud of:
+I have all sorts of projects on here. Here are some of the ones I'm most proud of:
 ### [Spectra](https://spectra-three-glsl.vercel.app/) - a 3D shader visualization tool that updates as you write shader code
 * built with NextJS, uses React state to handle updated GLSL code
 * uses ThreeJS to render scene with various 3D geometry options
@@ -10,3 +10,6 @@ I have all sorts of projects on here. Here are the ones I'm most proud of:
 * Java backend with Spring Boot framework
 * uses Bernstein polynomials to calculate Bézier curve from user-defined control points
 * Vanilla HTML/CSS/JS frontend, HTML canvas
+
+### [Zoo Game (school project)](https://github.com/Flapjack2000/cis-350-project)
+* PyGame
