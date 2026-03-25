@@ -9,7 +9,7 @@ I have all sorts of projects on here. Here are some of the ones I'm most proud o
 ### [Bézier Curve Creator](https://bezzy-qkxj.onrender.com/)
 * Java backend with Spring Boot framework
 * uses Bernstein polynomials to calculate Bézier curve from user-defined control points
-* Vanilla HTML/CSS/JS frontend, HTML canvas
+* Vanilla HTML/CSS/JS frontend, curves drawn on HTML canvas
 
 ### [Zoo Game (group project for school)](https://github.com/Flapjack2000/cis-350-project) - a video game in which you play as a zookeeper
 * built with Python and PyGame
