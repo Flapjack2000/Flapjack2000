@@ -11,7 +11,18 @@ I have all sorts of projects on here. Here are some of the ones I'm most proud o
 * uses Bernstein polynomials to calculate Bézier curve from a flexible number of user-defined control points
 * Vanilla HTML/CSS/JS frontend, curves drawn on HTML canvas
 
-#### School projects:
-  ### [Zoo Game](https://github.com/Flapjack2000/cis-350-project) - a video game in which you play as a zookeeper
-* built with Python and PyGame
-* all artwork done by fellow student Lucy Roop
+### [Kanban](https://kanban-zach-williams.vercel.app/) - a Kanban workflow management system
+* built with NextJS
+* boards and user profiles are saved on Supabase
+* drag-and-drop functionality
+
+## School projects:
+### [Zoo Game](https://github.com/Flapjack2000/cis-350-project) - a video game in which you play as a zookeeper
+* built with PyGame
+* artwork done by fellow student Lucy Roop
+* music done by fellow student Rudolf Patkolo
+
+### [Group Chat](https://github.com/Flapjack2000/cis-457-project-chat) - a simple TCP socket group chat application
+* built with Python's socket and threading libraries
+* Tkinter GUI
+* group project with fellow student Evan Dahl
