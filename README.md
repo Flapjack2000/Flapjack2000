@@ -1,5 +1,8 @@
 Hi, I'm Zach! I'm a computer science and mathematics student from Grand Rapids, Michigan.
 
+> Trying to reach me? [Message me on LinkedIn](https://www.linkedin.com/in/zach-s-williams/)! 
+
+
 I have all sorts of projects on here. Here are some of the ones I'm most proud of:
 ### [Spectra](https://spectra-three-glsl.vercel.app/) - a 3D shader visualization tool that updates as you write shader code
 * built with NextJS, uses React state to handle updated GLSL code
