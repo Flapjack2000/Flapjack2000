@@ -1,6 +1,8 @@
 Hi, I'm Zach! I'm a computer science and mathematics student from Grand Rapids, Michigan.
 
-> Trying to reach me? [Message me on LinkedIn](https://www.linkedin.com/in/zach-s-williams/)! 
+> Trying to reach me? [Message me on LinkedIn](https://www.linkedin.com/in/zach-s-williams/)!
+>
+> You can also find my resume [here](https://github.com/Flapjack2000/Flapjack2000/blob/main/Zachary_Williams_Resume.pdf).
 
 ## Personal projects:
 I have all sorts of projects on here. Here are some of the ones I'm most proud of:
